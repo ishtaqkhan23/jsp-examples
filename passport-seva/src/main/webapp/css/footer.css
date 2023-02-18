@@ -1,0 +1,12 @@
+.footer {
+    display: flex;
+    padding: 20px 10px;
+    background: cornflowerblue;
+    color: white;
+}
+
+.footer a, .footer .contact {
+    color: white;
+    flex-grow: 1;
+    text-align: center
+}
